@@ -1,594 +1,591 @@
 #####################################################################################################################
-NASIONAL 🇮🇩##INDIHOME##🇮🇩############
+NASIONAL #🇮🇩INDIHOME🇮🇩#############
 ############################################################
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/assets/CURIOSITY-OTT-135-HD.png?v=2.0.0.13",CURIOSITY
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/194/curiosity/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/assets/THUMBNAIL-135-LOVENATUREHD.png?v=2.0.0.13",LOVE NATURE
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/194/lovenature/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/assets/ANIMALPLANET-OTT-88-HD.png?v=2.0.0.13",ANIMAL PLANET
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/194/animalplanet/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/assets/DISCOVERYASIA-OTT-135-HD.png?v=2.0.0.13",DISCOVERY ASIA
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/194/discoveryasia/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_duniaanak_small1.png?v=2.0.0.13",DUNIA ANAK
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/assets/CURIOSITY-OTT-135-HD.png?v=2.0.0.13",CURIOSITY
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/194/curiosity/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/assets/THUMBNAIL-135-LOVENATUREHD.png?v=2.0.0.13",LOVE NATURE
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/194/lovenature/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/assets/ANIMALPLANET-OTT-88-HD.png?v=2.0.0.13",ANIMAL PLANET
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/194/animalplanet/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/assets/DISCOVERYASIA-OTT-135-HD.png?v=2.0.0.13",DISCOVERY ASIA
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/194/discoveryasia/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_duniaanak_small1.png?v=2.0.0.13",DUNIA ANAK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/duniaanak_dash/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_hitsnow_ver1.png",HITS NOW
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/134/hitsnow/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/194/maxstream/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/assets/ALLPLAY-HD-OTT-88.png",ALLPLAY ENT.
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/duniaanak_dash/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_hitsnow_ver1.png",HITS NOW
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/134/hitsnow/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/194/maxstream/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/assets/ALLPLAY-HD-OTT-88.png",ALLPLAY ENT.
 https://cors-proxy.elfsight.com/https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/assets/FUNPLANET-OTT-88.png",FUN PLANET
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/134/indikids/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_tvonenew_small.png",TV ONE
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/tvone/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_antvnew_small.png",ANTV
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/antv/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_alquran_small1.png?v=2.0.0.13",AL QURAN AL KAREEM
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/alquran/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_rodjatv_small1.png?v=2.0.0.13",RODJA TV
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/rodjatv/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_tvmui_small.png?v=2.0.0.13",MUI TV
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/muitv/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_tv9_small.png?v=2.0.0.13",TV9
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/tv9/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_euronews_ver1.png",EURONEWS
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/134/euronews/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_useesport_ver1.png",USEESPORT 1
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/assets/FUNPLANET-OTT-88.png",FUN PLANET
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/134/indikids/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_tvonenew_small.png",TV ONE
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/tvone/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_antvnew_small.png",ANTV
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/antv/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_alquran_small1.png?v=2.0.0.13",AL QURAN AL KAREEM
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/alquran/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_rodjatv_small1.png?v=2.0.0.13",RODJA TV
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/rodjatv/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_tvmui_small.png?v=2.0.0.13",MUI TV
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/muitv/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_tv9_small.png?v=2.0.0.13",TV9
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/tv9/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_euronews_ver1.png",EURONEWS
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/134/euronews/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_useesport_ver1.png",USEESPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/useesport/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_useesports2_ver1.png",USEESPORT 2
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/useesport/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_useesports2_ver1.png",USEESPORT 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/useesports2/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_bein1_ver1.png",BEIN SPORTS 1
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/useesports2/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_bein1_ver1.png",BEIN SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/beib1/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_bein2_ver1.png",BEIN SPORTS 3
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/beib1/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_bein2_ver1.png",BEIN SPORTS 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/beib2/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_nba_ver1.png",NBA TV
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/beib2/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_nba_ver1.png",NBA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/nba/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_fightsport_ver1.png",FIGHT SPORTS
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/fightsport/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_tvnmovies_ver1.png",TVN MOVIES
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/nba/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_fightsport_ver1.png",FIGHT SPORTS
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/fightsport/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_tvnmovies_ver1.png",TVN MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/tvnmovies/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_imc_small.png",IMC
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/tvnmovies/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_imc_small.png",IMC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/imc/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_galaxypremium_small.png",GALAXY PREMIUM
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/imc/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_galaxypremium_small.png",GALAXY PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/galaxypremium/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_galaxy_small.png",GALAXY
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/galaxypremium/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_galaxy_small.png",GALAXY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/galaxy/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_flik_ver2.png",FLIK
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/galaxy/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_flik_ver2.png",FLIK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/flik/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",BIOSKOP INDONESIA
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/flik/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",BIOSKOP INDONESIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/bioskopindonesia/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_celestialmovie_small.png",CELESTIAL MOVIE
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_celestialmovie_small.png",CELESTIAL MOVIE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/celestialmovie/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_paramount_ver1.png",PARAMOUNT NETWORK
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/celestialmovie/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_paramount_ver1.png",PARAMOUNT NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=706172616d6f756e7430303030303030:da2faf628a7e2bda68d12ae2da12b93c
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/paramount/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_mycinema_ver1.png",MY CINEMA
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/mycinema/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_cinemaworldnew_small.png",CINEMAWORLD
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/paramount/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_mycinema_ver1.png",MY CINEMA
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/mycinema/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_cinemaworldnew_small.png",CINEMAWORLD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/134/cinemaworld/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_cnbcindonesia_ver1.png",CNBC INDONESIA
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/134/cinemaworld/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_cnbcindonesia_ver1.png",CNBC INDONESIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/cnbcindonesia_dash/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_cnninternational_ver1.png",CNN INTERNATIONAL
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/cnbcindonesia_dash/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_cnninternational_ver1.png",CNN INTERNATIONAL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/cnninternational_dash/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_tvn_ver1.png",TVN
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/cnninternational_dash/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_tvn_ver1.png",TVN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/tvn/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_history_ver3.png",HISTORY
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/tvn/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_history_ver3.png",HISTORY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/history/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_dunialain_small.png?v=2.0.0.13",DUNIA LAIN
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/history/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_dunialain_small.png?v=2.0.0.13",DUNIA LAIN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/dunialain/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_cdrama_ver1.png",CITRA DRAMA
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/cdrama/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_sone_small.png?v=2.0.0.13",ONE
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/dunialain/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_cdrama_ver1.png",CITRA DRAMA
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/cdrama/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_sone_small.png?v=2.0.0.13",ONE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=736f6e65303030303030303030303030:824784864e5ad3d72820d58823ed4dda
-https://astro.transvision.workers.devhttps://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/sone/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_kix_ver1.png",KIX
+https://astro.transvision.workers.devhttps://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/sone/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_kix_ver1.png",KIX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/kix/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_kungfutv_small.png",KUNGFU TV
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/kungfutv/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_sgem_small.png?v=2.0.0.13",GEM
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/sgem/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_zhejiang_small.png",ZHEJIANG TV
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/zhejiang/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_shenzen_small.png",SHENZEN TV
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/shenzen/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_cartoonnetwork_small.png",CARTOON NETWORK
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/194/cartoonnetwork/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_horee_ver1.png",HOREE
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/kix/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_kungfutv_small.png",KUNGFU TV
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/kungfutv/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_sgem_small.png?v=2.0.0.13",GEM
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/sgem/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_zhejiang_small.png",ZHEJIANG TV
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/zhejiang/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_shenzen_small.png",SHENZEN TV
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/shenzen/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_cartoonnetwork_small.png",CARTOON NETWORK
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/194/cartoonnetwork/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_horee_ver1.png",HOREE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/horee/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_disco_ver1.png",DISCOVERY
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/horee/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_disco_ver1.png",DISCOVERY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/disco/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_techstorm_ver1.png",TECHSTORM
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/techstorm/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_crimeinvest_small.png",CRIME INVESTIGATION
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/disco/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_techstorm_ver1.png",TECHSTORM
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/techstorm/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_crimeinvest_small.png",CRIME INVESTIGATION
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/crimeinvestigation/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_pandatv_small.png",PANDA TV
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/pandatv/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_afc_ver1.png",ASIA FOOD NETWORK
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/crimeinvestigation/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_pandatv_small.png",PANDA TV
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/pandatv/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_afc_ver1.png",ASIA FOOD NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=61666330303030303030303030303030:e6f0c3fa2a6adb104a0163a5ef0bdd79
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/afc/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_hgtv_ver1.png",HGTV
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/afc/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_hgtv_ver1.png",HGTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/hgtv/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_eatgo_small1.png?v=2.0.0.13",EAT&GO
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/134/eatgo/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_citradangdut_ver1.png",CITRA DANGDUT
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/hgtv/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_eatgo_small1.png?v=2.0.0.13",EAT&GO
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/134/eatgo/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_citradangdut_ver1.png",CITRA DANGDUT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/citradangdut/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_insert_small1.png?v=2.0.0.13",INSERT
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/citradangdut/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_insert_small1.png?v=2.0.0.13",INSERT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=696e7365727430303030303030303030:13c460676bc323f6b567493aadee2f64
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/insert/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_nickjr_ver1.png",NICKJR
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/insert/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_nickjr_ver1.png",NICKJR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6e69636b6a7230303030303030303030:5130a6e0a492e1cc152783c490679bc5
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/nickjr/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_net_ver1.png",NET
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/net/manifest.mpd
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩"  tvg-logo="https://images.🇮🇩##INDIHOME##🇮🇩tv.com/logo_daaitv_small1.png?v=2.0.0.13",DAAI TV
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/134/daaitv/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/nickjr/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_net_ver1.png",NET
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/net/manifest.mpd
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#"  tvg-logo="https://images.#🇮🇩INDIHOME🇮🇩#tv.com/logo_daaitv_small1.png?v=2.0.0.13",DAAI TV
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/134/daaitv/manifest.mpd
 
 
 
 
-#EXTINF:-1 group-logo="https://w7.pngwing.com/pngs/578/539/png-transparent-🇮🇩##INDIHOME##🇮🇩-speedy-logo-telkom-indonesia-speedy-text-logo-sign.png",
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="_______", Bioskop Indonesia
+#EXTINF:-1 group-logo="https://w7.pngwing.com/pngs/578/539/png-transparent-#🇮🇩INDIHOME🇮🇩#-speedy-logo-telkom-indonesia-speedy-text-logo-sign.png",
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="_______", Bioskop Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="_______", Flik
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="_______", Flik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/flik/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/flik/manifest.mpd
 
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="_______", USEE SPORT1
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="_______", USEE SPORT1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/useesport/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/useesport/manifest.mpd
 
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="_______", USEE SPORT2
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="_______", USEE SPORT2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/useesports2/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/useesports2/manifest.mpd
 
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="_______", History
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="_______", History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/history/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/history/manifest.mpd
 
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="_______", CNN INDONESIA
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="_______", CNN INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/cnnindonesia/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/cnnindonesia/manifest.mpd
 
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="_______", HORIZON
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="_______", HORIZON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/horizonsport/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/horizonsport/manifest.mpd
 
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="_______", NBA
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="_______", NBA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/nba/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/nba/manifest.mpd
 
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="_______", TVN MOVIES
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="_______", TVN MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/tvnmovies/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/tvnmovies/manifest.mpd
 
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="_______", TVN 
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="_______", TVN 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/tvn/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/tvn/manifest.mpd
 
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="_______", IMC
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="_______", IMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/imc/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/imc/manifest.mpd
 
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="_______", AXN
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="_______", AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/axn/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/axn/manifest.mpd
 
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="_______", GALAXY PREMIUM
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="_______", GALAXY PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/galaxypremium/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/galaxypremium/manifest.mpd
 
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="_______", GALAXY
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="_______", GALAXY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/galaxy/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/galaxy/manifest.mpd
 
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="_______", HITS NOW 
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="_______", HITS NOW 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/hitsnow/manifest.mpd 
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/hitsnow/manifest.mpd 
 
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="_______", CELESTIAL MOVIE
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="_______", CELESTIAL MOVIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/celestialmovie/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/celestialmovie/manifest.mpd
 
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="_______", CINEMA WORLD
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="_______", CINEMA WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/134/cinemaworld/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/134/cinemaworld/manifest.mpd
 
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="_______", DAVINCI
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="_______", DAVINCI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/134/davinci/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/134/davinci/manifest.mpd
 
 
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="_______", DREAMWORK
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="_______", DREAMWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/dreamworks/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/dreamworks/manifest.mpd
 
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="_______", DISCO TV
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="_______", DISCO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/disco/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/disco/manifest.mpd
 
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="_______", LINGUA 
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="_______", LINGUA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/lingua/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/lingua/manifest.mpd
 
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="_______", CRIME INVESTIGATION
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="_______", CRIME INVESTIGATION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/crimeinvestigation/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/crimeinvestigation/manifest.mpd
 
 
-#EXTINF:0 tvg-id="davinciasia.de" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest/scale-to-width-down/640" group-title="🇮🇩##INDIHOME##🇮🇩",Da Vinci
+#EXTINF:0 tvg-id="davinciasia.de" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest/scale-to-width-down/640" group-title="#🇮🇩INDIHOME🇮🇩#",Da Vinci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/134/davinci/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/134/davinci/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" tvg-logo="https://i.ibb.co/nBVJShL/net-big-copy.png" group-title="🇮🇩##INDIHOME##🇮🇩", NET.
+#EXTINF:-1 tvg-logo="" tvg-logo="https://i.ibb.co/nBVJShL/net-big-copy.png" group-title="#🇮🇩INDIHOME🇮🇩#", NET.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/net/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/net/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="🇮🇩##INDIHOME##🇮🇩",LOVE NATURE
+#EXTINF:-1 tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="#🇮🇩INDIHOME🇮🇩#",LOVE NATURE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/194/lovenature/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/194/lovenature/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyrz2wJOqPQToudptRma5A9sf0Rk5ydUeqTVwMDaehvtsL7LQfrImwX0MBVTz8vXMaG98&usqp=CAU" group-title="🇮🇩##INDIHOME##🇮🇩",CURIOSITY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyrz2wJOqPQToudptRma5A9sf0Rk5ydUeqTVwMDaehvtsL7LQfrImwX0MBVTz8vXMaG98&usqp=CAU" group-title="#🇮🇩INDIHOME🇮🇩#",CURIOSITY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/194/curiosity/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/194/curiosity/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="🇮🇩##INDIHOME##🇮🇩", BEIN 1 ID
+#EXTINF:0 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="#🇮🇩INDIHOME🇮🇩#", BEIN 1 ID
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/beib1/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/beib1/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png" group-title="🇮🇩##INDIHOME##🇮🇩", BEIN 3 ID
+#EXTINF:0 tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png" group-title="#🇮🇩INDIHOME🇮🇩#", BEIN 3 ID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/beib2/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/beib2/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/yh0rk6f/Dunia-Lain.png" group-title="🇮🇩##INDIHOME##🇮🇩", DUNIA LAIN
+#EXTINF:0 tvg-logo="https://i.ibb.co/yh0rk6f/Dunia-Lain.png" group-title="#🇮🇩INDIHOME🇮🇩#", DUNIA LAIN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/dunialain/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/dunialain/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSCoEjDjxepj0m6SFkRQxEGNkA-ZHoD9-bquDchgVZooNzcW56ww9yPMxP_M93WKHyy3U&usqp=CAU" group-title="🇮🇩##INDIHOME##🇮🇩", ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSCoEjDjxepj0m6SFkRQxEGNkA-ZHoD9-bquDchgVZooNzcW56ww9yPMxP_M93WKHyy3U&usqp=CAU" group-title="#🇮🇩INDIHOME🇮🇩#", ANIMAL PLANET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/194/animalplanet/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/194/animalplanet/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/2560px-Discovery_Asia_logo.svg.png" group-title="🇮🇩##INDIHOME##🇮🇩", DISCOVERY ASIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/2560px-Discovery_Asia_logo.svg.png" group-title="#🇮🇩INDIHOME🇮🇩#", DISCOVERY ASIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/194/discoveryasia/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/194/discoveryasia/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YjTJ1zY/antv-big-copy.png" group-title="🇮🇩##INDIHOME##🇮🇩", ANTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjTJ1zY/antv-big-copy.png" group-title="#🇮🇩INDIHOME🇮🇩#", ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/antv/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/antv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7pszF9/seru-big-copy.png" group-title="🇮🇩##INDIHOME##🇮🇩", SERU CHANNEL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h7pszF9/seru-big-copy.png" group-title="#🇮🇩INDIHOME🇮🇩#", SERU CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/134/seru/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/134/seru/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VHgW58G/musikindo-big-copy.png" group-title="🇮🇩##INDIHOME##🇮🇩", MUSIKINDO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VHgW58G/musikindo-big-copy.png" group-title="#🇮🇩INDIHOME🇮🇩#", MUSIKINDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/134/musikindo/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/134/musikindo/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8bLtS2v/daaitv-big-copy.png" group-title="🇮🇩##INDIHOME##🇮🇩", DAAI TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8bLtS2v/daaitv-big-copy.png" group-title="#🇮🇩INDIHOME🇮🇩#", DAAI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/134/daaitv/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/134/daaitv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t8X3LHn/maxstream.png" group-title="🇮🇩##INDIHOME##🇮🇩", MAXSTREAM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t8X3LHn/maxstream.png" group-title="#🇮🇩INDIHOME🇮🇩#", MAXSTREAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/194/maxstream/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/194/maxstream/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JrjtwgW/nhkworld-big-copy.png" group-title="🇮🇩##INDIHOME##🇮🇩", NHK WORLD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JrjtwgW/nhkworld-big-copy.png" group-title="#🇮🇩INDIHOME🇮🇩#", NHK WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/130/nhkworld/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/130/nhkworld/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7vB55bZ/useeprime-big-copy.png" group-title="🇮🇩##INDIHOME##🇮🇩", USEE PRIME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7vB55bZ/useeprime-big-copy.png" group-title="#🇮🇩INDIHOME🇮🇩#", USEE PRIME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/useeprime/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/useeprime/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rs2dN1W/indikids-big-copy.png" group-title="🇮🇩##INDIHOME##🇮🇩",  INDI KIDS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rs2dN1W/indikids-big-copy.png" group-title="#🇮🇩INDIHOME🇮🇩#",  INDI KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/134/indikids/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/134/indikids/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cxWPXfS/mykids-big-copy.png" group-title="🇮🇩##INDIHOME##🇮🇩",  My KIDS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cxWPXfS/mykids-big-copy.png" group-title="#🇮🇩INDIHOME🇮🇩#",  My KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/134/mykids/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/134/mykids/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CKmqddD/mycinema-big-copy.png" group-title="🇮🇩##INDIHOME##🇮🇩", MY CINEMA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKmqddD/mycinema-big-copy.png" group-title="#🇮🇩INDIHOME🇮🇩#", MY CINEMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/133/mycinema/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/133/mycinema/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VgtbdHC/lifetime-big-copy.png" group-title="🇮🇩##INDIHOME##🇮🇩", LIFETIME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VgtbdHC/lifetime-big-copy.png" group-title="#🇮🇩INDIHOME🇮🇩#", LIFETIME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/134/lifetime/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/134/lifetime/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LJ54PbT/mentaritv-big-copy.png" group-title="🇮🇩##INDIHOME##🇮🇩", MENTARI TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LJ54PbT/mentaritv-big-copy.png" group-title="#🇮🇩INDIHOME🇮🇩#", MENTARI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/134/mentaritv/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DKS9LZC/moji-ocha-big-copy.png" group-title="🇮🇩##INDIHOME##🇮🇩", MOJI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DKS9LZC/moji-ocha-big-copy.png" group-title="#🇮🇩INDIHOME🇮🇩#", MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/134/ochannel/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/134/ochannel/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/970x544/2020/09/15/20484-logo-indosiar.jpg" group-title="🇮🇩##INDIHOME##🇮🇩", INDOSIAR
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/970x544/2020/09/15/20484-logo-indosiar.jpg" group-title="#🇮🇩INDIHOME🇮🇩#", INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn09jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/139/indosiar/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn09jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/139/indosiar/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="🇮🇩##INDIHOME##🇮🇩",SCTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="#🇮🇩INDIHOME🇮🇩#",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://cors-proxy.elfsight.com/https://streaming.🇮🇩##INDIHOME##🇮🇩tv.com/atm/DASH/sctv/manifest.mpd
+https://cors-proxy.elfsight.com/https://streaming.#🇮🇩INDIHOME🇮🇩#tv.com/atm/DASH/sctv/manifest.mpd
 
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="http://tv.bapacom.net/assets/images/Discovery1664975007.png", Discovery Malaysia
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="http://tv.bapacom.net/assets/images/Discovery1664975007.png", Discovery Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/194/discoveryasia/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/194/discoveryasia/manifest.mpd
 
-#EXTINF:0  tvg-id="" tvg-name="" group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="https://press.curiositystream.com/wp-content/uploads/2021/08/CuriosityChannel%E2%84%A2-Logo-Pos.png",Curiosity Channel
+#EXTINF:0  tvg-id="" tvg-name="" group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="https://press.curiositystream.com/wp-content/uploads/2021/08/CuriosityChannel%E2%84%A2-Logo-Pos.png",Curiosity Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/194/curiosity/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/194/curiosity/manifest.mpd
 
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-id="SPOTV" tvg-logo="https://i.ibb.co/60xH5KT/Spotv-1-hometv.jpg",SPOTV
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-id="SPOTV" tvg-logo="https://i.ibb.co/60xH5KT/Spotv-1-hometv.jpg",SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dassdvr/194/spotv/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn08jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dassdvr/194/spotv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27418259_ico.png?ts=1689965679" group-title="🇮🇩##INDIHOME##🇮🇩",ANTARA TV
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27418259_ico.png?ts=1689965679" group-title="#🇮🇩INDIHOME🇮🇩#",ANTARA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn09jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dvr/139/antara/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn09jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dvr/139/antara/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNPD-iwMrRfCy-cn4QyiqkHjSAqc7NHHeEQ&usqp=CAU" group-title="🇮🇩##INDIHOME##🇮🇩",INDIKIDS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNPD-iwMrRfCy-cn4QyiqkHjSAqc7NHHeEQ&usqp=CAU" group-title="#🇮🇩INDIHOME🇮🇩#",INDIKIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn09jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dvr/139/indikids/manifest.mpd
+https://cors-proxy.elfsight.com/https://cdn09jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dvr/139/indikids/manifest.mpd
 
-#EXTINF:-1 group-title="🇮🇩##INDIHOME##🇮🇩" tvg-logo="_______", RRI
+#EXTINF:-1 group-title="#🇮🇩INDIHOME🇮🇩#" tvg-logo="_______", RRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn09jtedge.🇮🇩##INDIHOME##🇮🇩tv.com/dvr/139/rrinet/manifest.mpd
-
-
-#################################################################################################################
+https://cors-proxy.elfsight.com/https://cdn09jtedge.#🇮🇩INDIHOME🇮🇩#tv.com/dvr/139/rrinet/manifest.mpd
