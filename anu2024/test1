@@ -1,19 +1,4 @@
-playlist3
-SrwjyTV 
-sumber: 
-https://bit.ly/3fnq19D sriwijaya tv
-
-https://raw.githubusercontent.com/TVcrack/tontonan/main/S%20(2).m3u
-
-
-
-
-
-
-
-
 #EXTM3U
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="MNCSports3.Id" tvg-logo="https://anutv.xyz/gambar/bri.jpg" group-title="Liga INDO [Live]", LIVE IDN 1
