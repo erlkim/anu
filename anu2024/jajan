@@ -15667,52 +15667,52 @@
             ############
             ############
 
-#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://img.wapka.io/d92b6d18.png" , SERVER BBC ONE
+#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" , SERVER BBC ONE
 https://cdn.wapka.io/00dth2/e90e8aa855cb01daa1ef38b699a4dc24/eurobbcone.m3u8
 
-#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://img.wapka.io/6ed08f9b.png" , SERVER BBC TWO
+#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" , SERVER BBC TWO
 https://cdn.wapka.io/00dth3/44e8ed1efde5ab67c35df74ec833cef2/eurobbctwo.m3u8
 
-#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="http://ikitv.online/server1.png" , SERVER 1 • [ KiMTV ]
+#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" , SERVER 1 • [ KiMTV ]
 https://cdn.wapka.io/00dmc9/ff0d72fca4004954faf0dc9302db354b/server-5.m3u8
 
-#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="http://ikitv.online/server1.png" , SERVER 1A • [ KiMTV ]
+#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" , SERVER 1A • [ KiMTV ]
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E3:83&stream=560498&extension=ts&play_token=ix2VvdiAHb
 
-#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="http://ikitv.online/server1.png" , SERVER 1 [HD] • [ KiMTV ]
+#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" , SERVER 1 [HD] • [ KiMTV ]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=95abe856f5c148b2974f5fb28a74b2e2:be434af7b0e977df382c97a375c47291
 https://cdnlb.tvplayhome.lt/live/eds/TV3_EE_HD_HVC/GO3_LIVE_DASH_AVC/TV3_EE_HD_HVC.mpd
 
-#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="http://ikitv.online/server2.png" , SERVER 2 • [ KiMTV ]
+#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" , SERVER 2 • [ KiMTV ]
 http://KiMTVstream-espnar.webhop.me:8000/play/a01i
 
-#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="http://ikitv.online/server2.png" , SERVER 2 [SD] • [ KiMTV ]
+#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" , SERVER 2 [SD] • [ KiMTV ]
 http://KiMTVstream-espnar.webhop.me:8000/play/a00k
 
-#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="http://ikitv.online/server2.png" , SERVER 2 [HD] • [ KiMTV ]
+#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" , SERVER 2 [HD] • [ KiMTV ]
 http://KiMTV.online/espnarg.m3u8
 
-#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="http://ikitv.online/server3.png" , SERVER 3 • [ KiMTV ]
+#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" , SERVER 3 • [ KiMTV ]
 https://cdn.wapka.io/00dpej/6c58157aa0fdd0ec11bf24ce3af98841/server-6.m3u8
 
-#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="http://ikitv.online/server3.png" , SERVER 3.1 • [ KiMTV ]
+#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" , SERVER 3.1 • [ KiMTV ]
 https://cdn.wapka.io/00dpek/d92f0c31292fd914fcc41c44e18df58a/server-7.m3u8
 
-#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="http://ikitv.online/server3.png" , SERVER 3.2 • [ KiMTV ]
+#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" , SERVER 3.2 • [ KiMTV ]
 https://cdn.wapka.io/00dpem/66162c3a23cd560581509a9fde3ba9b7/server-9.m3u8
 
-#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://img.wapka.io/fff63a60.png" , SERVER SPORTSTARS 3 • [ KiMTV ]
+#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" , SERVER SPORTSTARS 3 • [ KiMTV ]
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 
-#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="http://ikitv.online/server3.png" , SERVER 3.3 • [ KiMTV ]
+#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" , SERVER 3.3 • [ KiMTV ]
 http://4kgoott.com:2052/play/live.php?mac=00:1A:79:C4:8C:22&stream=13780&extension=ts&play_token=OkX9VY1Vi0
 
-#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="http://ikitv.online/server3.png" , SERVER 3.4 • [ KiMTV ]
+#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" , SERVER 3.4 • [ KiMTV ]
 http://4kgoott.com:2052/play/live.php?mac=00:1A:79:C4:8C:22&stream=13779&extension=ts&play_token=0JEv6MrTXJ
 
 #EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/cva3b41716285148.jpg" , 21/06 - 07:00 WIB [ KiMTV ]
