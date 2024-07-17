@@ -211,7 +211,7 @@ https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
 
 ///////////////////////////////   LIVE EVENT
 
-#EXTINF:-1 group-title="ERLKIM TV LIVE EVENT" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c0juD1cji7FRpWZSeOEIm9eghengsmenPEgJog-O4A&s", TIMNAS LIVE 1
+#EXTINF:-1 group-title="🇮🇩ERLKIM TV LIVE EVENT🇮🇩" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c0juD1cji7FRpWZSeOEIm9eghengsmenPEgJog-O4A&s", TIMNAS LIVE 1
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/127?|user-agent=com.xui.1_5_12r2
 
 #EXTINF:-1 group-title="ERLKIM TV LIVE EVENT" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c0juD1cji7FRpWZSeOEIm9eghengsmenPEgJog-O4A&s", TIMNAS LIVE 2
@@ -231,7 +231,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
 
-#EXTINF:-1 group-title="ERLKIM TV LIVE EVENT" tvg-logo="https://www.visionplus.id/images/repository/799/136799-SNAPSHOT-m.png", EURO 3 - DANA/OVO 085321200809
+#EXTINF:-1 group-title="ERLKIM TV LIVE EVENT" tvg-logo="https://www.visionplus.id/images/repository/799/136799-SNAPSHOT-m.png", EURO 3 -
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/234|user-agent=com.xui.1_5_12r2
 
 #EXTINF:-1 group-title="ERLKIM TV LIVE EVENT" tvg-logo="https://www.visionplus.id/images/repository/800/136800-SNAPSHOT-m.png", EURO 4 - JIKA ANDA TIDAK TERHIBUR
@@ -292,7 +292,7 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/128|user-agent=com.xui.1_5_1
 
 #EXTINF:-1 group-title="ERLKIM TV LIVE EVENT" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIvQo8Uk12o7ANH9bvrdYl0A.png", VOLI PROLIGA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-https://raw.githubusercontent.com/ERLKIMTV/ya2m/master/mooji.m3u8
+https://raw.githubusercontent.com/MayangTV/ya2m/master/mooji.m3u8
 
 #EXTINF:-1 group-title="ERLKIM TV LIVE EVENT" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIvQo8Uk12o7ANH9bvrdYl0A.png", VOLI PROLIGA 3
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -302,7 +302,7 @@ https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666
 #EXTINF:-1 group-title="ERLKIM TV LIVE EVENT" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 1
 https://brflu.walk-tv.com/5931/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ERLKIM TV LIVE EVENT" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 2
-https://pastebin.com/raw/HfawaYsW?id=ERLKIMtv.m3u8
+https://pastebin.com/raw/HfawaYsW?id=mayangtv.m3u8
 
 #EXTINF:-1 group-title="ERLKIM TV LIVE EVENT" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 3
 https://trtspor.blutv.com/blutv_trtspor/live_720p2000000kbps/index.m3u8
