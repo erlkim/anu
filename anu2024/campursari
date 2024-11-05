@@ -477,8 +477,12 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927f
 #EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO-Transcorp",HBO Signature (TRANSCORP)
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
+
+
+
 ============================Movie=================
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/mcu1.png" group-title=ERLKIM@2024🇮🇩~VOD|MOVIES",Captain America : The First Avengers (2011) SUB INDO
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/mcu1.png" group-title="ERLKIM@2024🇮🇩~VOD|MOVIES",Captain America : The First Avengers (2011) SUB INDO
 http://abf.filmbluray.id/h4z3ytj
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/mcu2.png" group-title="ERLKIM@2024🇮🇩~VOD|MOVIES",Captain Marvel (2019) SUB INDO
 http://abf.filmbluray.id/kqrml0j
