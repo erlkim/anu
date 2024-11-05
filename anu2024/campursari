@@ -44,6 +44,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels",SCTV🆘(indihome)
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
+#EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="Indonesia Channels", SCTV (4k) 
+http://teratv4k.com:8880/286223017941/158348647463/412224
+
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels",SCTV~HD(opx)
+http://opplex.tv:8080/3116580700/0700/351030
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="Indonesia Channels",SCTV (FMX)_mpd(ott.player)
