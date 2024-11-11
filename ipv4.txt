@@ -1,3 +1,17 @@
+192.0.48.69:443#Q2 Software, Inc.
+103.175.220.123:443#PT Biznet Gio Nusantara
+103.89.0.222:443#Biznet Gio NVC
+103.150.86.48:443#PT Biznet Gio Nusantara
+103.157.97.34:443#PT Beon Intermedia
+101.50.3.79:443#PT. Beon Intermedia
+206.237.96.218:443#Herza Cloud
+103.178.153.220:443#PT Herza Digital Indonesia
+206.237.97.22:443#Herza Cloud
+103.87.81.179:443#PT. Cyberindo Aditama
+202.158.99.118:443#Network Operation Center
+210.210.172.49:443#PT Cyberindo Aditama
+202.83.123.58:443#Asia Pacific Network Information Centre
+172.232.244.37:443#Linode
 45.77.36.40:443#Vultr
 5.223.41.42:443#Hetzner
 168.138.165.174:443#Oracle
