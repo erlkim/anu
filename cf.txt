@@ -1,0 +1,32 @@
+Cloudflare Tunnel
+https://github.com/cloudflare/cloudflared/releases
+
+Simple Tunnel
+cloudflared tunnel --url localhost:5739
+
+Advanced Tunnel
+cloudflared tunnel login
+cloudflared tunnel create <Nama Tunnel>
+
+tunnel: <Tunnel-UUID>
+credentials-file: C:\Users\COMP_NAME\.cloudflared\<Tunnel-UUID>.json
+ingress:
+  - hostname: sub.domain.com
+    service: http://localhost:port
+  - hostname: sub.domain.com
+    service: http://localhost:port
+    # An example of a catch-all rule:
+  - service: http_status:404
+
+Simpan >> config.yml
+
+Validasi Ingress :
+cloudflared tunnel ingress validate
+
+Routing Tunnel :
+cloudflared tunnel route dns <UUID or NAME> <hostname>
+
+Routing semua sub domain. 
+
+Running Tunnel :
+cloudflared tunnel run <Tunnel-UUID>
