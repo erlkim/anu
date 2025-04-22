@@ -237,6 +237,7 @@ OLAHRAGA LOKAL
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JjzVLl9.png" group-title="OLAHRAGA LOKAL",TVRI Sport
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166686
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000_eng=20003.m3u8
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar - [Saluran 78].id" tvg-logo="https://iili.io/2h01fDJ.png" group-title="OLAHRAGA LOKAL",INDOSIAR BRI LIGA 1
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
