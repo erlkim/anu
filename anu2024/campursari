@@ -25,8 +25,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://gtv-linier.rctiplus.id/hdntl=exp=1745385182~acl=%2F*~data=hdntl~hmac=dc2837aea292670bb1f856c72657167c13b262f5a8f20eacb4702fb3e278ac24/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://iili.io/JMp3iiX.png" group-title="NASIONAL",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
