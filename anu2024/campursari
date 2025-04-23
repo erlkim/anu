@@ -247,6 +247,8 @@ https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8
+http://iptvtree.net:8080/F25093/29838750/298550
+http://filex.tv:8080/aftab123/004090/302279
 
 #EXTINF:-1 tvg-id="Fight Sports - [Channel 304].id" tvg-logo="https://iili.io/JjzVgt4.png" group-title="OLAHRAGA LOKAL",Fight Sports
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
