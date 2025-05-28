@@ -210,3 +210,178 @@ https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
 ##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ##KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 ##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
+
+==========
+    OLAHRAGA LOKAL
+    ==========
+    
+    #EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png",OLAHRAGA LOKAL
+    
+    
+    #KODIPROP:inputstream=inputstream.adaptive
+    #KODIPROP:inputstream.adaptive.manifest_type=mpd
+    #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+    #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+    #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=112
+    #EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png" group-title="OLAHRAGA LOKAL",Sportstars 
+    https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+    #EXTINF:-1 group-title="OLAHRAGA LOKAL" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png",Sportstars 2 
+    #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+    #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha  
+    #EXTVLCOPT:http-referrer=https://visionplus.id/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+    #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=113
+    https://kingtvpremium.my.id/play/pision/index.mpd?id=113
+
+    #EXTINF:0 tvg-id="SS4" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png" group-title="OLAHRAGA LOKAL", SPORTSTARS 4 ᴴᴰ
+    #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+    #KODIPROP:inputstreamaddon=inputstream.adaptive
+    #KODIPROP:inputstream.adaptive.manifest_type=dash
+    #KODIPROP:inputstream.adaptive.license_type=clearkey
+    #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+    https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
+
+    #KODIPROP:inputstream.adaptive.license_type=clearkey
+    #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+    #EXTVLCOPT:http-referrer=https://visionplus.id
+    #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/soccer.png" group-title="OLAHRAGA LOKAL",Soccer Channel ᴴᴰ
+    #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+    https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+    #EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/SportTv.png" group-title="OLAHRAGA LOKAL",SPOTV ᴴᴰ
+    #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+    #KODIPROP:inputstream.adaptive.license_type=clearkey
+    #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+    https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+    
+    #EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/SportTv2.png" group-title="OLAHRAGA LOKAL",SPOTV 2 ᴴᴰ
+    #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+    #KODIPROP:inputstream.adaptive.license_type=clearkey
+    #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+    https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
+    #EXTINF:-1 tvg-id="60" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/fight_sports.png" group-title="OLAHRAGA LOKAL", FIGHT SPORTS HD
+    #EXTVLCOPT:http-referrer=http://www.dens.tv/
+    #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+    http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD
+
+    #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/bein_id.png" group-title="OLAHRAGA LOKAL", beIN Sports 1
+    #KODIPROP:inputstreamaddon=inputstream.adaptive
+    #KODIPROP:inputstream.adaptive.manifest_type=dash
+    #KODIPROP:inputstream.adaptive.license_type=clearkey
+    #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+    #EXTVLCOPT:http-user-agent=Mozilla/5.0
+    https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+    
+    #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports2" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/bein_id.png" group-title="OLAHRAGA LOKAL", beIN Sports 2
+    #KODIPROP:inputstreamaddon=inputstream.adaptive
+    #KODIPROP:inputstream.adaptive.manifest_type=dash
+    #KODIPROP:inputstream.adaptive.license_type=clearkey
+    #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+    #EXTVLCOPT:http-user-agent=Mozilla/5.0
+    https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+    
+    #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports3" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/bein_id.png" group-title="OLAHRAGA LOKAL",beIN Sports 3
+    #KODIPROP:inputstreamaddon=inputstream.adaptive
+    #KODIPROP:inputstream.adaptive.manifest_type=dash
+    #KODIPROP:inputstream.adaptive.license_type=clearkey
+    #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+    #EXTVLCOPT:http-user-agent=Mozilla/5.0
+    https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+    
+    #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+    #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+    #EXTINF:-1 tvg-id="beINSports4" group-title="OLAHRAGA LOKAL" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/bein_id.png", beIN Sports 4
+    #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+    #KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
+    https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+    
+    #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+    #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+    #EXTINF:-1 tvg-id="beINSports5" group-title="OLAHRAGA LOKAL" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/bein_id.png", beIN Sports 5
+    #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+    #KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9
+    #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/PSJTV.png" group-title="OLAHRAGA LOKAL",PSJ TV
+    https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+    
+    #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+    #KODIPROP:inputstream.adaptive.license_type=clearkey
+    #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+    #EXTINF:-1 tvg-id="__" group-title="OLAHRAGA LOKAL" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/moji.png",Moji 
+    #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+    #KODIPROP:inputstream.adaptive.license_type=clearkey
+    #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+    https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8
+    
+    #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+    #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/tvri_sports.png" group-title="OLAHRAGA LOKAL", TVRI SPORT
+    https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/tvrisporttv.m3u8
+    
+    #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+    #EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU" group-title="OLAHRAGA LOKAL",INDOSIAR
+    https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/ind1.m3u8
+    
+    #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/sctv.png" group-title="OLAHRAGA LOKAL",SCTV
+    https://raw.githubusercontent.com/quuen2024/vod-1/refs/heads/queen/sctv.m3u8
+    #https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dF03Gl-n7DGhPYlZqbpRa7H
+    
+    #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/rcti.png" group-title="OLAHRAGA LOKAL",RCTI
+    https://raw.githubusercontent.com/quuen2024/vod-1/refs/heads/queen/rcti.m3u8
+    #https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dF0aQ-7wAbnWwsHhTcys5TF
+
+    #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="OLAHRAGA LOKAL",Champions TV 1
+    #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+    #KODIPROP:inputstream.adaptive.manifest_type=dash
+    #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+    #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=drm 
+    https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
+    
+    #EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="OLAHRAGA LOKAL",Champions TV 2
+    #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+    #KODIPROP:inputstream.adaptive.manifest_type=dash
+    #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+    #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=drm
+    https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=dash 
+    
+    #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/2lP42X2.png" group-title="OLAHRAGA LOKAL",Champions TV 3
+    #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+    #KODIPROP:inputstreamaddon=inputstream.adaptive 
+    #KODIPROP:inputstream.adaptive.manifest_type=dash 
+    #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+    #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=drm 
+    https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
+    
+    #EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="OLAHRAGA LOKAL",Champions TV 5
+    #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+    #KODIPROP:inputstream.adaptive.manifest_type=dash
+    #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+    #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=drm 
+    https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
+    
+    #EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="OLAHRAGA LOKAL",Champions TV 6
+    #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+    #KODIPROP:inputstream.adaptive.manifest_type=dash
+    #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+    #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=drm 
+    https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
+    
+    #EXTINF:-1 tvg-logo="https://iili.io/2iAIK8l.png" group-title="OLAHRAGA LOKAL",Champions Golf 1
+    #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+    #KODIPROP:inputstream.adaptive.manifest_type=dash
+    #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+    #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18189&type=drm 
+    https://sweet-night-1d1d.worst.workers.dev/?id=18189&type=dash
+    
+    #EXTINF:-1 tvg-logo="https://iili.io/2iAIFa4.png" group-title="OLAHRAGA LOKAL",Champions Golf 2
+    #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+    #KODIPROP:inputstream.adaptive.manifest_type=dash
+    #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+    #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18190&type=drm 
+    https://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
+    
+    #EXTINF:-1 tvg-id="ChampionsTVEPL.id" tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league.png" group-title="OLAHRAGA LOKAL",Premier League
+    #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+    #KODIPROP:inputstream.adaptive.manifest_type=dash
+    #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+    #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=drm 
+    https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
