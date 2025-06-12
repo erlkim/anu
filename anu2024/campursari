@@ -566,30 +566,3 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 #EXTINF:-1 tvg-logo="" group-title="Premium Movies" tvg-logo="https://png.pngtree.com/template/20220424/ourmid/pngtree-bollywood-cinema-cinematography-banner-logo-brochure-image_1179540.jpg",Bollywood HD 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
-====================================OPTUS SPORTS==============================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png",OPTUS SPORTS
-==============================================================================================
-    
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="OPTUS SPORTS", OPTUS SPORT 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%201.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="OPTUS SPORTS", OPTUS SPORT 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%202.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="OPTUS SPORTS", OPTUS SPORT 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%203.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="OPTUS SPORTS", OPTUS SPORT 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%204.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="OPTUS SPORTS", OPTUS SPORT 5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%205.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="OPTUS SPORTS", OPTUS SPORT 6
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%206.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="OPTUS SPORTS", OPTUS SPORT 7
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%207.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="OPTUS SPORTS", OPTUS SPORT 8
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%208.m3u8
