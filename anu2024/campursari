@@ -566,3 +566,21 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 #EXTINF:-1 tvg-logo="" group-title="Premium Movies" tvg-logo="https://png.pngtree.com/template/20220424/ourmid/pngtree-bollywood-cinema-cinematography-banner-logo-brochure-image_1179540.jpg",Bollywood HD 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
+=====================
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3N7pT4xe_X2_RVgJrg0HoEucFhj7dqqKvVB8rNkrVNwy7F3lF40u3RAtq&s=10" group-title="🟢Voli_Mania🟢", VOLI TURKI 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://iptvde.de:8080/OsmanTokmak/fgxgthus/111498
+#http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/32095.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3N7pT4xe_X2_RVgJrg0HoEucFhj7dqqKvVB8rNkrVNwy7F3lF40u3RAtq&s=10" group-title="🟢Voli_Mania🟢", VOLI TURKI 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=330814&extension=ts&play_token=PtfriuPMYz
