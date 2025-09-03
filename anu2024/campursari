@@ -235,3 +235,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD
 
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/bein_id.png" group-title="OLAHRAGA LOKAL", 
+
+
+#EXTINF:-1 group-title="📁 channel vid" tvg-logo="https://www.indosiar.com/assets/logo.png", INDOSIAR
+#EXTVLCOPT:http-user-agent=VidioPlayer/2.33.10
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://nextgenz.my.id/event/pidio/play.m3u8?id=205&type=hls
