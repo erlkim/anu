@@ -27,6 +27,17 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/indosiar.png" group-title="Indonesia Channels", INDOSIAR ❤️
 https://raw.githubusercontent.com/quuen2024/EmyLie/refs/heads/queen/indo.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/indosiar.png" group-title="Indonesia Channels",INDOSIAR DIGITAL TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://203.77.246.58:4500/udp/239.1.1.110:5000
+#https://mimipipi22.github.io/logo/offline.m3u8
+http://103.66.62.83:8000/play/a069/index.m3u8
+http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/indosiar.png" group-title="Indonesia Channels", INDOSIAR ⚽
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
