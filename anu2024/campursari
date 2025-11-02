@@ -3,11 +3,11 @@
 #EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
 
 
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/da64b16cd0084624098a70c0070d44d9-thumbnail.jpg" group-title="BOLA+VOLY",Liverpool vs. Aston Villa 2
-#EXTVLCOPT:http-origin=https://ppv.to/
-#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTINF:-1 tvg-logo="https://live-tv.b-cdn.net/logos/channels/0cdnusausanetwork-sv3.png" group-title="BOLA+VOLY",USA NETWORK
+#EXTVLCOPT:http-origin=https://fstv.online/
+#EXTVLCOPT:http-referrer=https://fstv.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-#https://gg.poocloud.in/epl_liv/tracks-v1a1/mono.ts.m3u8
+https://o4.greekpersian.shop/usa-usanetwork.m3u8
 
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/da64b16cd0084624098a70c0070d44d9-thumbnail.jpg" group-title="BOLA+VOLY",Yuso Yogyakarta vs. Kwk Ponorogo
 #EXTVLCOPT:http-origin=https://dlhd.dad/
