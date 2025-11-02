@@ -9,11 +9,11 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://o4.greekpersian.shop/usa-usanetwork.m3u8?auth_key=1762104781-baba52de775767ca0766dc6d1b5eec78-00000000000000000000000000000000-065b21e0b0bc22a84d15113d3ffb32cd&__PROXY_IDENTIFIER__=true
 
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/da64b16cd0084624098a70c0070d44d9-thumbnail.jpg" group-title="BOLA+VOLY",Yuso Yogyakarta vs. Kwk Ponorogo
-#EXTVLCOPT:http-origin=https://dlhd.dad/
-#EXTVLCOPT:http-referrer=https://dlhd.dad/
+#EXTINF:-1 tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/9ec570fbdc82b613baeaddf1de974395.png" group-title="BOLA+VOLY",Premier Sport 1
+#EXTVLCOPT:http-origin=https://fstv.online/
+#EXTVLCOPT:http-referrer=https://fstv.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://o4.greekpersian.shop/uk-skysportpremierleague.m3u8?auth_key=1762108731-669cff9e7f3eea51303a2487813bf22c-00000000000000000000000000000000-ca765e255d8923188b198ebfcff2d99e&__PROXY_IDENTIFIER__=true
+https://o4.greekpersian.shop/uk-premiersport1.m3u8?auth_key=1762110496-669cff9e7f3eea51303a2487813bf22c-00000000000000000000000000000000-022170a2c71fb63c50e91b1e345f406c&__PROXY_IDENTIFIER__=true
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
