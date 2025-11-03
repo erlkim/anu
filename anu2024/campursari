@@ -2,11 +2,15 @@
 
 #EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
 
+#EXTINF:-1  tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-hz-uk.png?raw=true" group-title="BOLA+VOLY",Sky Sports Premier League
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium130%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="BOLA+VOLY",Astro SuperSport 1
 #EXTVLCOPT:http-origin=https://dlhd.dad/
 #EXTVLCOPT:http-referrer=https://dlhd.dad/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
+#https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://live-tv.b-cdn.net/logos/channels/0cdnusausanetwork-sv3.png" group-title="BOLA+VOLY",USA NETWORK
@@ -19,7 +23,7 @@ https://o4.greekpersian.shop/usa-usanetwork.m3u8?auth_key=1762147812-669cff9e7f3
 #EXTVLCOPT:http-origin=https://fstv.online/
 #EXTVLCOPT:http-referrer=https://fstv.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://o4.greekpersian.shop/uk-premiersport1.m3u8?auth_key=1762110496-669cff9e7f3eea51303a2487813bf22c-00000000000000000000000000000000-022170a2c71fb63c50e91b1e345f406c&__PROXY_IDENTIFIER__=true
+#https://o4.greekpersian.shop/uk-premiersport1.m3u8?auth_key=1762110496-669cff9e7f3eea51303a2487813bf22c-00000000000000000000000000000000-022170a2c71fb63c50e91b1e345f406c&__PROXY_IDENTIFIER__=true
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
