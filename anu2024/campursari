@@ -10,7 +10,7 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko
 #EXTVLCOPT:http-origin=https://dlhd.dad/
 #EXTVLCOPT:http-referrer=https://dlhd.dad/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-#https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
+http://drewlive24.duckdns.org:4123/playlist?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium123%2Fmono.m3u8&epgMerging=true
 
 
 #EXTINF:-1 tvg-logo="https://live-tv.b-cdn.net/logos/channels/0cdnusausanetwork-sv3.png" group-title="BOLA+VOLY",USA NETWORK
