@@ -2,11 +2,11 @@
 
 #EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="BOLA+VOLY",Sky Sport EPL
-#EXTVLCOPT:http-origin=https://fstv.online/
-#EXTVLCOPT:http-referrer=https://fstv.online/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="BOLA+VOLY",Astro SuperSport 1
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-referrer=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://o4.greekpersian.shop/de-skypremierleagaue.m3u8?auth_key=1762111464-baba52de775767ca0766dc6d1b5eec78-00000000000000000000000000000000-f5843d195489bc71c1cbf7413b2aee20&__PROXY_IDENTIFIER__=true
+https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://live-tv.b-cdn.net/logos/channels/0cdnusausanetwork-sv3.png" group-title="BOLA+VOLY",USA NETWORK
