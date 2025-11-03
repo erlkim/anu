@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://tinyurl.com/DrewLiveEPG24" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://tinyurl.com/DrewLiveEPG24" "https://github.com/Drewski2423/DrewLive/raw/refs/heads/main/DrewLive.xml.gz" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1  tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-hz-uk.png?raw=true" group-title="BOLA+VOLY",Sky Sports Premier League
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium130%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
