@@ -63,7 +63,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#EXTINF:-1 tvg-id="SCTV.id" group-title="National TV" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sctv.png",SCTV HD💕
+#EXTINF:-1 tvg-id="SCTV.id" group-title="Indonesia Channels" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sctv.png",SCTV HD💕
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=rg.w3.clearkey
