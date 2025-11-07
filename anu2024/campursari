@@ -5,11 +5,11 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://live-tv.b-cdn.net/logos/channels/0cdnusausanetwork-sv3.png" group-title="BOLA+VOLY",USA NETWORK
-#EXTVLCOPT:http-origin=https://fstv.online/
-#EXTVLCOPT:http-referrer=https://fstv.online/
+#EXTINF:-1 tvg-logo="https://live-tv.b-cdn.net/logos/channels/0cdnusausanetwork-sv3.png" group-title="BOLA+VOLY",FIFA+
+#EXTVLCOPT:http-origin=https://plus.fifa.com
+#EXTVLCOPT:http-referrer=https://plus.fifa.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-#https://o4.greekpersian.shop/usa-usanetwork.m3u8?auth_key=1762147812-669cff9e7f3eea51303a2487813bf22c-00000000000000000000000000000000-14bd114fdae8e153e88b23dedfa09ac7&__PROXY_IDENTIFIER__=true
+https://d7pd9oqdl4d44.cloudfront.net/2025_11_06_09_18_06_da7578c8-dec5-40e3-b5fb-3fa64d8e1e7a/PROD_CMAF_CENC/live-channel_Audio20_eng_458993128.mp4
 
 #EXTINF:-1 tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/9ec570fbdc82b613baeaddf1de974395.png" group-title="BOLA+VOLY",Premier Sport 1
 #EXTVLCOPT:http-origin=https://fstv.online/
