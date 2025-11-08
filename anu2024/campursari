@@ -9,7 +9,7 @@
 #EXTVLCOPT:http-origin=https://plus.fifa.com
 #EXTVLCOPT:http-referrer=https://plus.fifa.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://du2yfy2plnh46.cloudfront.net/out/v1/37d19f7070144cd5ac520db0b928ff20/8f1900706e91489c97d9bfa78cd54535/f10e5054e33a4182846cef3a7e31a72f/cf058d1f842848f4afa52b7c1766bc09/index_audio_14_0_7.mp4
+https://card-images-save-two.s3.us-east-1.amazonaws.com/hls/720p/playlist.m3u8?token=aw3znx9o2mf&v=1762620399789
 
 #EXTINF:-1 tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/9ec570fbdc82b613baeaddf1de974395.png" group-title="BOLA+VOLY",Premier Sport 1
 #EXTVLCOPT:http-origin=https://fstv.online/
