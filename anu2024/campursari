@@ -9,7 +9,7 @@
 #EXTVLCOPT:http-origin=https://dlhd.dad/
 #EXTVLCOPT:http-referrer=https://dlhd.dad/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://zekonew.newkso.ru/zeko/premium123/mono.css
+#https://zekonew.newkso.ru/zeko/premium123/mono.css
 
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/d9c0aec6e5c87dbd1c4b0b82f8993b68-thumbnail.jpg" group-title="BOLA+VOLY",Juventus Vs Torino
 #EXTVLCOPT:http-origin=https://ppv.to/
