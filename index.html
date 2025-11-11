@@ -1,4 +1,118 @@
-<html><head><title>It works!</title></head><body><h1>It works!</h1>
-<p>This is the default web page for this server.</p>
-<p>The web server software is running but no content has been added, yet.</p>
-</body></html>
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZHStore VPN Configurator</title>
+    <link rel="icon" href="https://zhwifi.web.id/favicon.ico">
+    
+    <script>
+        // Suntik CSS dengan cache busting
+        const cssVersion = new Date().getTime();
+        document.write(`<link rel="stylesheet" href="style.css?v=${cssVersion}">`);
+    </script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <a href="https://zhwifi.web.id" class="logo">
+                <img src="https://zhwifi.web.id/favicon.ico" width="10%">
+                <h1>ZHStore Configurator</h1>
+            </a>
+        </header>
+
+        <main>
+            <div class="info-grid">
+                <div class="info-card">
+                    <span class="icon">🌐</span>
+                    <div>
+                        <p>Your ISP</p>
+                        <h4 id="isp-info">Detecting...</h4>
+                    </div>
+                </div>
+                <div class="info-card">
+                    <span class="icon">📍</span>
+                    <div>
+                        <p>Your Location</p>
+                        <h4 id="location-info">Detecting...</h4>
+                    </div>
+                </div>
+                <div class="info-card" id="worker-info">
+                  <span class="icon">🚀</span>
+                  <div>
+                      <p>Active Worker Host</p>
+                      <h4>Loading...</h4>
+                  </div>
+                </div>
+                <div class="info-card">
+                    <span class="icon">🌍</span>
+                    <select id="country-filter">
+                        <option value="all">All Countries</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="server-list-container" id="server-list">
+                <!-- Konten di sini akan diisi oleh script.js -->
+            </div>
+        </main>
+    </div>
+
+    <footer class="controls-footer">
+        <div class="search-box">
+            <span class="icon">🔍</span>
+            <input type="text" id="search-input" placeholder="Cari provider atau negara...">
+        </div>
+        <div class="control-buttons">
+            <button class="btn" id="selected-count-btn">0 proxies</button>
+            <button class="btn" id="settings-btn">Settings</button>
+            <button class="btn primary" id="export-btn">Export</button>
+        </div>
+    </footer>
+
+    <!-- ======================================================= -->
+    <!-- MODAL SETTINGS (ELEMEN BARU)                            -->
+    <!-- ======================================================= -->
+    <div class="modal-overlay" id="settings-modal-overlay">
+        <div class="modal-content">
+            <h2>Settings</h2>
+            <p>Atur parameter untuk generate konfigurasi.</p>
+            
+            <div class="form-group">
+                <label for="bug-cdn-input">Bug CDN / Host</label>
+                <input type="text" id="bug-cdn-input" placeholder="contoh.bug.com">
+            </div>
+            <div class="form-group">
+                <label for="worker-host-input">Worker Host (SNI)</label>
+                <input type="text" id="worker-host-input" placeholder="worker.anda.workers.dev" value="zalsknndy19.ngopi.qzz.io">
+            </div>
+            <div class="form-group">
+                <label for="uuid-input">UUID</label>
+                <input type="text" id="uuid-input" placeholder="UUID VLESS Anda">
+            </div>
+            <div class="form-group">
+                <label for="protocol-select">Protocol</label>
+                <select id="protocol-select">
+                    <option value="vless">VLESS</option>
+                    <!-- Opsi lain bisa ditambahkan nanti -->
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="tls-select">TLS</label>
+                <select id="tls-select">
+                    <option value="true">True</option>
+                    <option value="false">False</option>
+                </select>
+            </div>
+
+            <button class="btn primary" id="settings-done-btn">Done</button>
+        </div>
+    </div>
+    
+    <script>
+        // Suntik JavaScript dengan cache busting
+        const jsVersion = new Date().getTime();
+        document.write(`<script src="script.js?v=${jsVersion}" defer><\/script>`);
+    </script>
+</body>
+</html>
