@@ -3,6 +3,13 @@
 #EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://tinyurl.com/DrewLiveEPG24" "https://github.com/Drewski2423/DrewLive/raw/refs/heads/main/DrewLive.xml.gz" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
 
 
+https://locked.pixelpanel.online/hdstream/embed/724.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png" group-title="Pixelsports - Live TV",TNT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://locked.pixelpanel.online/hdstream/embed/196.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/ee8d7150172f60feed8dad74eed40d56-thumbnail.jpg" group-title="BOLA+VOLY",Everton Vs Fulfam
