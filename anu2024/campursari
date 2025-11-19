@@ -56,9 +56,9 @@ https://raw.githubusercontent.com/quuen2024/EmyLie/refs/heads/queen/indo.m3u8
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-http://203.77.246.58:4500/udp/239.1.1.110:5000
+#http://203.77.246.58:4500/udp/239.1.1.110:5000
 #https://mimipipi22.github.io/logo/offline.m3u8
-http://103.66.62.83:8000/play/a069/index.m3u8
+#http://103.66.62.83:8000/play/a069/index.m3u8
 http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
