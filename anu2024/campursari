@@ -2,11 +2,7 @@
 
 #EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://tinyurl.com/DrewLiveEPG24" "https://github.com/Drewski2423/DrewLive/raw/refs/heads/main/DrewLive.xml.gz" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png" group-title="Pixelsports - Live TV",Sports Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://epicplayplay.cfd/
-#EXTVLCOPT:http-icy-metadata=1
-#https://zekonew.newkso.ru/zeko/premium123/mono.css
+
 
 
 
@@ -23,6 +19,17 @@
 #https://locked.pixelpanel.online/hdstream/embed/194.m3u8
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/indosiar.png" group-title="Indonesia Channels", INDOSIAR ⚽
+https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/indosiar.png" group-title="Indonesia Channels",INDOSIAR DIGITAL TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
@@ -43,17 +50,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/indosiar.png" group-title="Indonesia Channels",INDOSIAR DIGITAL TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/indosiar.png" group-title="Indonesia Channels", INDOSIAR ⚽
-https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sctv.png" group-title="Indonesia Channels" tvg-url="https://bit.ly/JejeVisionEPG",SCTV 💕
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
