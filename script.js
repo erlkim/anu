@@ -5,7 +5,7 @@
 
 document.addEventListener('DOMContentLoaded', function() {
     // --- PENGATURAN ---
-    const PROXY_LIST_URL = 'https://raw.githubusercontent.com/officialputuid/KangProxy/KangProxy/https/https.txt';
+    const PROXY_LIST_URL = 'https://raw.githubusercontent.com/FoolVPN-ID/Nautica/main/proxyList.txt';
 
     // --- Referensi Elemen DOM ---
     const serverListContainer = document.getElementById('server-list');
