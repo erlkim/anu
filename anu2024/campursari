@@ -2,8 +2,13 @@
 
 #EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://tinyurl.com/DrewLiveEPG24" "https://github.com/Drewski2423/DrewLive/raw/refs/heads/main/DrewLive.xml.gz" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/moji.png" group-title="Sport_Id",MOJI TV HD
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://raw.githubusercontent.com/quuen2024/EmyLie/refs/heads/queen/moji.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/voli.png" group-title="Sport_Id", TV VOLI
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://raw.githubusercontent.com/quuen2024/EmyLie/refs/heads/queen/Voli.m3u8
 
 
 
