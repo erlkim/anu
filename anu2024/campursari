@@ -29,15 +29,6 @@
 #EXTVLCOPT:http-icy-metadata=1
 #https://locked.pixelpanel.online/hdstream/embed/194.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/indosiar.png" group-title="Indonesia Channels", Indosiar FHD VIP
-https://raw.githubusercontent.com/quuen2024/EmyLie/refs/heads/queen/indo.m3u8
-
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/indosiar.png" group-title="Indonesia Channels", INDOSIAR ⚽
@@ -50,6 +41,7 @@ https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 ##https://master.drmstuff.my.id:443/CHANNEL_DEMO/FBXKZshfcg/507
 ##https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C8-1Z2Rp7JvQhncgXXsV4UVM/ts
 http://202.169.224.202:8800/udp/239.9.1.25:1234
+https://raw.githubusercontent.com/quuen2024/EmyLie/refs/heads/queen/indo.m3u8
 #https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=205&type=dash
 
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sctv.png" group-title="Indonesia Channels" tvg-url="https://bit.ly/JejeVisionEPG",SCTV 💕
