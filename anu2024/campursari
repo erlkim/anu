@@ -141,10 +141,14 @@ https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 #EXTVLCOPT:http-user-agent=cardimumtea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://103.172.71.153:9981/stream/channelid/540992703?profile=pass
-#EXTINF:-1 xui-id="15" tvg-id="" tvg-name="KOMPAS TV" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqvU-wn4F58wF2Ocu0X2he4A.png" group-title="Indonesia Channels",KOMPAS TV VIP 
-#EXTVLCOPT:http-user-agent=cardimumtea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="Kompas.TV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/kompastv.jpg" group-title="Indonesia Channels",KOMPAS TV
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
 #EXTINF:-1 tvg-id="tvOne.id" group-title="Indonesia Channels" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/tvone.png",TVOne
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
