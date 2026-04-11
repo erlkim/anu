@@ -231,6 +231,43 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
 <=========================================================================== SEA GAMES 2025 ====================================================================================>
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/bhsports1.png" group-title="VOLI_SPORTS",BAHRAIN SPORTS 1 🇧🇭
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/bhsports2.png" group-title="VOLI_SPORTS",BAHRAIN SPORTS 2 🇧🇭
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/moji.png" group-title="VOLI_SPORTS",MOJI TV HD
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://raw.githubusercontent.com/quuen2024/EmyLie/refs/heads/queen/moji.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3N7pT4xe_X2_RVgJrg0HoEucFhj7dqqKvVB8rNkrVNwy7F3lF40u3RAtq&s=10" group-title="VOLI_SPORTS", VOLI TURKI 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://31.3.91.134:12005/udp/224.0.0.1:33503
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr6oFSL3kKarpzbmJfV9wymV4IrRaF0BgyA&s" group-title="VOLI_SPORTS",VOLI BRAZIL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21005.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3N7pT4xe_X2_RVgJrg0HoEucFhj7dqqKvVB8rNkrVNwy7F3lF40u3RAtq&s=10" group-title="VOLI_SPORTS", VOLI ITALIA 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=87a5beac54c74bf4a95a142b90fb817f:4618d1d8d1903223990635f181afd202
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3N7pT4xe_X2_RVgJrg0HoEucFhj7dqqKvVB8rNkrVNwy7F3lF40u3RAtq&s=10" group-title="VOLI_SPORTS", VOLI ITALIA 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003)
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+
+#EXTINF:-1 group-title="VOLI_SPORTS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/kbsnsport.png", KBSN Sports KR
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+http://live-114.myjktv.com/watch/live.m3u8?video=kbs_n_sports_540&sid=SQuHD7cISYiboGZRb3O0wkHG2XNxR5DUyZqqP8FF&secret=dbb984cb4a0e1f03e915ac9266883845&time=1736162356 
+
 
 
 
@@ -421,7 +458,23 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/130/nba/manifest.mpd
 ==================================================================================================================================
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="ASTRO_SPORTS",ASTRO ARENA 1
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
 
+=======================================
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="ASTRO_SPORTS",ASTRO ARENA
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Astaren2.m3u8
+
+=======================================
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="ASTRO_SPORTS",ASTRO ARENA 2
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl2.m3u8
+
+=======================================
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="ASTRO_SPORTS",ASTRO FUTBOL
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl3.m3u8
 
 
 
