@@ -323,8 +323,6 @@ http://live-114.myjktv.com/watch/live.m3u8?video=kbs_n_sports_540&sid=SQuHD7cISY
 ==========
     
 
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/SportTv2.png" group-title="OLAHRAGA LOKAL",SPOTV 2 
-#KODIPROP:playlist >>> LOCAL SPORTS
 //========================================================================
 
 #EXTINF:-1 tvg-id="beIN SPORTS (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="LOCAL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgZXz5knMiTH0ydjcUE-3F6ffbUFLKk2ahUbJ6OLy7xfJckLnLNoB0haA&s=10", beIN Sports 1 
