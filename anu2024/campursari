@@ -30,7 +30,7 @@
 #https://locked.pixelpanel.online/hdstream/embed/194.m3u8
 
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/066/569066-LOGO-m.png" group-title="Indonesia Channels",INDOSIAR
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/066/569066-LOGO-m.png" group-title="Indonesia Channels",INDOSIAR 1 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 #https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
