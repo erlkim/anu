@@ -1,6 +1,7 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.nng.cloudns.us" url-tvg="http://epg.nng.cloudns.us" refresh="3600"
 
-#EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://tinyurl.com/DrewLiveEPG24" "https://github.com/Drewski2423/DrewLive/raw/refs/heads/main/DrewLive.xml.gz" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U
+# (●) Last Update: 2025-03-30 23:29:00 GMT+7 "
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/moji.png" group-title="Sport_Id",MOJI TV HD
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
