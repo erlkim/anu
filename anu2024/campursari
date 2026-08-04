@@ -254,123 +254,141 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
 
 
-########################################################           Sports           ########################################################
+#############################################################################################################
+##########################################     Sports     ###################################################
+#############################################################################################################
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/q1uytC0.png?v=1.1.1.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="beINSports1.id" tvg-name="beIN Sports", beIN Sports
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|Referer=https://www.visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=112
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="MNCSports.id" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png",Sportstar
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Z6Ct8gG.png?v=1.1.1.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="beINSports2.id" tvg-name="beIN Sports 2 HD", beIN Sports 2
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd|Referer=https://www.visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=113
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="MNCSports2.id" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png",Sportstar 2
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/PN4Owbg.png?v=1.1.1.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="beINSports3.id" tvg-name="beIN Sports 3", beIN Sports 3
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd|Referer=https://www.visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=114
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="MNCSports3.id" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png",Sportstar 3
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5TtxQOw.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="FightSports.us" tvg-name="Fight Sports", Fight Sports
-https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd|referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=205
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:0 tvg-id="Sportstars4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="Sports",Sportstar 4
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTVLCOPT:http-origin=https://www.distro.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OWfDYeM.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="HorizonSports.us.id" tvg-name="Horizon Sports", HorizonSports
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22705&ads.content_duration=18000&ads.episode_id=11063&ads.show_id=415&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CAction%2FAdventure%2CLifestyle%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Horizon%20Sports&ads.episodetitle=Horizon%20Sports&ads.keywords=horizon%20sports%2Coutdoors%2Cadventure%2Caction&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=tpFxNv6v6WS
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=115
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="SoccerChannel.id" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png",Soccer Channel
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTVLCOPT:http-origin=https://www.distro.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/q9va5s4.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="MotorRacing.distro" tvg-name="MotorRacing", MotorRacing
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22705&ads.content_duration=18000&ads.episode_id=54754&ads.show_id=1714&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CAuto%20Racing%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=MotorRacing&ads.episodetitle=MotorRacing&ads.keywords=motorracing&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=io8s1r08hJe
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=119
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="SPOTV.id" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",SPOTV
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Qr0o2tP.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="Motorvision+.id" tvg-name="Motorvision+.id", Motorvision+
-https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=lite&chname=Motorvision+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=120
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="SPOTV2.id" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png",SPOTV2
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Duajhzv.png?v=1.1.1.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="Onesports.ph" tvg-name="Onesports", Onesports
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=122
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="beINSports" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png", beIN Sports 1 
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd  
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/XgEMPxg.png?v=1.1.1.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="OnesportsplusHd.ph" tvg-name="OneSports Plus", OneSports Plus 
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=123
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="beINSports2" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png", beIN Sports 2 
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd  
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/v5wKtPf.png?v=1.1.1.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="CAAJ2700030ON" tvg-name="Outside", Outside
-https://gist.githubusercontent.com/warningfm/f951716f1dfd96d4480dbdad6a000eeb/raw/c04d61b0a6119b0f2efcc31b3308c8cc82d2025a/Outside.m3u8
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=124
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="beINSports3" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png", beIN Sports 3 
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/4YIBApo.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" channel-id="GBBD2300003IK" tvg-id="GBBD2300003IK" tvg-name="Red Bull TV", Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=125
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="beINSports4" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png", beIN Sports 4
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lSjJSce.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="SPOTV.id" tvg-name="SPOTV", SPOTV
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd|Referer=https://www.visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=126
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="beINSports5" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/jZOVF6X.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="SPOTV2.id" tvg-name="SPOTV2", SPOTV2
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd|Referer=https://www.visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=121
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="FightSports" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png",Fight Sports
+https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/aUrEAaS.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="SoccerChannel.id" tvg-name="Soccer Channel", Soccer Channel
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=1002
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/444/92444-LOGO-m.png",V+ LIVE
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/qBAL0XG.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="SportStars.id" tvg-name="Sportstars", Sportstars
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd|Referer=https://www.visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=1010
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/710/112710-LOGO-m.png",V+ LIVE 2
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/JcuzM3D.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="SportStars2.id" tvg-name="Sportstars 2", Sportstars 2
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd|Referer=https://www.visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=1011
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-l.png",V+ Sport
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/f224a4945f2f48e892fb896645a9af6b/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/LSct2v4.png?v=1.1.1.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="Sportstars4", Sportstars 4 HD
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id
-#http://cdn.nng.cloudns.us/live/m3u8/sprt/3b5901d4c8158d3.m3u8
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=1012
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/698/129698-LOGO-l.png",V+ LIVE 3
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/113af3d432214f62bd6815f976bf2cd6/index.mpd
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/6bFWQcD.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="Sports TV.tr" tvg-name="Sports TV.tr", Sports TV
-https://gist.githubusercontent.com/warningfm/fb30c7f87f9a7730154c9e55a1946478/raw/712cecc8371099b9402f055a8c80a978800e6724/sportstv.m3u8
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=1013
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/509/128509-LOGO-l.png",V+ LIVE 4
+https://bintangstreaming.my.id/rcti_pro/index.mpd?id=1013
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/npVjW8c.png?v=1.1.1.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="TAPSPORTS.ph" tvg-name="TAPSPORTS", Tap Sports
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tapsports/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=1014
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/287/191287-LOGO-l.png",V+ Live 5
+https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTv48h7IvSry5ZG-qtm1vfqdNZ8dd03YxtLGrd4lqTdHRXHfPT4Vyt3EsqsXljv_0QYop-uPIla0m1W1YbnYxHDGhgyQ_1Fh7_7iUhCzwWuu4_DDK7nvR8YRYXOf-UlG1B-nwMgKQ8MMm3lzb9_3m8qt-tKRF6Y2flbF-DYBVvRAFtnBu4CTVvJ221SaY/s1600/lTjXUym.png?v=1.1.1.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="tvg-id="TRACESportsStars.sg" tvg-name="TRACE Sports Stars HD", TRACE Sport Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=1015
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/288/191288-LOGO-l.png",V+ Live 6
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/eb98aca0a1be41f7b9c05dac051a250e/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/UOVkwef.png?v=1.1.1.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="W-Sport" tvg-name="W-Sport", W-Sport
-https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=1016
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/288/191288-LOGO-l.png",V+ Live 7
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/943ac2b78bfa4e8eab531c3880aa337a/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=1018
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTINF:-1 group-logo="" group-title="Sports" tvg-id="^__^" tvg-logo="https://www.visionplus.id/images/repository/288/191288-LOGO-l.png",V+ Live 9
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/8983f9a68f0d4f169a77f3ce20ab2685/index.mpd
 
 ########################################################           Knowledge           ########################################################
 
