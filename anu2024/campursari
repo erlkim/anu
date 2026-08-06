@@ -3,6 +3,13 @@
 #EXTM3U
 # (●) Last Update: 2025-03-30 23:29:00 GMT+7 "
 
+#EXTINF:-1 tvg-id="21872" tvg-logo="https://thumbor.prod.vidiocdn.com/aKwjmhmbZIx17m7LHY-vhXurIws=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5251272/dc3fc8.jpg" group-title="@LIVE" group-logo="https://i.ibb.co.com/5hPWP8XM/20260215-235442.png", Final: PERSIB vs PERSEBAYA Surabaya - Piala Presiden | 06/08/2026 - 20:00 WIB
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ais-dev-ag4ior6t72y7gfsuv7rfjv-30335425147.asia-east1.run.app/vid/index.drm?id=21872&type=drm
+https://ais-dev-ag4ior6t72y7gfsuv7rfjv-30335425147.asia-east1.run.app/vid/index.mpd?id=21872&type=dash
+
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
