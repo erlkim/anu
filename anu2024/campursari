@@ -3,12 +3,6 @@
 #EXTM3U
 # (●) Last Update: 2025-03-30 23:29:00 GMT+7 "
 
-#EXTINF:-1 tvg-id="12847" tvg-logo="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&auto=format&fit=crop&q=80" group-title="@LIVE" group-logo="https://i.ibb.co.com/5hPWP8XM/20260215-235442.png", BRI Liga 1: Persija Jakarta vs Persib Bandung | 06/08/2026 - 18:41 WIB
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.drm?id=12847&type=drm
-https://tvratu.my.id/vid/index.mpd?id=12847&type=dash
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
