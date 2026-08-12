@@ -49,7 +49,7 @@ https://beetv.my.id/stream/vd.m3u8?ch=antv
 http://khano.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="TRANSTV" tvg-name="TRANSTV HD" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png",TRANSTV HD
-#EXTVLCOPT:http-user-agent=android-R+A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://sedotmas.erlkim.workers.dev/index.m3u8?ch=transtv|User-Agent=android-R+A&Referer=https://www.rctiplus.com/
