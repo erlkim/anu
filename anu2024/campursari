@@ -51,8 +51,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 #EXTINF:-1 group-title="Indonesia Channels" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png",TRANSTV HD
 #EXTVLCOPT:http-user-agent=android-R+A
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=transtv
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=transtv
+https://sedotmas.erlkim.workers.dev/index.m3u8?ch=transtv
 
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png" group-title="Indonesia Channels",TRANS 7 HD
