@@ -3,11 +3,6 @@
 #EXTM3U
 # (●) Last Update: 2025-03-30 23:29:00 GMT+7 "
 
-#EXTINF:-1 group-title="Indonesia Channels" tvg-id="RCTI" tvg-name="RCTI HD" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png",RCTI HD
-#EXTVLCOPT:http-user-agent=android-R+A
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://sedotmas.erlkim.workers.dev/index.m3u8?ch=rcti
-
 #EXTINF:-1 group-title="Indonesia Channels" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png",RCTI HD
 #EXTVLCOPT:http-user-agent=android-R+A
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
