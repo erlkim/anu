@@ -14,12 +14,15 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://www.visionplus.id/images/repository/066/569066-LOGO-m.png" group-title="Indonesia Channels",Indosiar HD
+https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/1.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-m.png" group-title="Indonesia Channels",SCTV HD
 https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/3.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-m.png" group-title="Indonesia Channels",SCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=204
+#https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=204
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
@@ -34,11 +37,14 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png" group-title="Indonesia Channels",GTV HD
 https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/24.m3u8
 
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png" group-title="Indonesia Channels",ANTV HD
+https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/22.m3u8
+
 #EXTINF:-1 group-title="Indonesia Channels" tvg-name="ANTV" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png", ANTV HD
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
-https://beetv.my.id/stream/vd.m3u8?ch=antv
+#https://beetv.my.id/stream/vd.m3u8?ch=antv
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/070/569070-LOGO-m.png?v=1.1.1.1" group-title="Indonesia Channels" group-logo="https://www.visionplus.id/images/repository/070/569070-LOGO-m.png?v=1.1.1.1" ch-number="16" tvg-id="Moji.id" tvg-name="Moji.id", MOJI
@@ -48,16 +54,19 @@ http://khano.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://sedotmas.erlkim.workers.dev/index.m3u8?ch=transtv|User-Agent=android-R+A&Referer=https://www.rctiplus.com/
+#https://sedotmas.erlkim.workers.dev/index.m3u8?ch=transtv|User-Agent=android-R+A&Referer=https://www.rctiplus.com/
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png",TRANSTV HD
 #EXTVLCOPT:http-user-agent=android-R+A
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://sedotmas.erlkim.workers.dev/index.m3u8?ch=transtv
+#https://sedotmas.erlkim.workers.dev/index.m3u8?ch=transtv
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="Indonesia Channels",TransTV HD
+https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/25.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png" group-title="Indonesia Channels",TRANS 7 HD
-https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
+#https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTVLCOPT:http-origin=https://geo.dailymotion.com/
