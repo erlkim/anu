@@ -16,8 +16,13 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://www.visionplus.id/images/repository/066/569066-LOGO-m.png" group-title="Indonesia Channels",Indosiar HD
 https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/1.m3u8
 
+#EXTINF:-1 tvg-name="SCTV.id" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-m.png" group-title="Indonesia Channels",SCTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
+
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-m.png" group-title="Indonesia Channels",SCTV HD
-https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/3.m3u8
+#https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/3.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
