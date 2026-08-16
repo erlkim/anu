@@ -56,23 +56,11 @@ http://khano.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #https://sedotmas.erlkim.workers.dev/index.m3u8?ch=transtv|User-Agent=android-R+A&Referer=https://www.rctiplus.com/
 
-#EXTINF:-1 group-title="Indonesia Channels" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png",TRANSTV HD
-#EXTVLCOPT:http-user-agent=android-R+A
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://sedotmas.erlkim.workers.dev/index.m3u8?ch=transtv
-
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="Indonesia Channels",TransTV HD
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png" group-title="Indonesia Channels",TransTV HD
 https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/25.m3u8
 
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png" group-title="Indonesia Channels",TRANS 7 HD
-#https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#EXTVLCOPT:http-origin=https://geo.dailymotion.com/
-#EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png" group-title="Indonesia Channels",Trans7 HD
-https://live.eu-north-1b.cf.dmcdn.net/sec2(QWyjY9MCg22es8gcrRJkyAYEZc8mZWkoN3p8wnfipcTmlfPabKPT2vzkWoUcyyIye55Tyar3PlJwUvHmE-6A1xqh-7PNuwcOuGC2Yf6K0UQnNd2VsYUz-Du0YzxrCSxO)/dm/3/x8qckyq/d/live-480.m3u8
+https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/9.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png" group-title="Indonesia Channels",RTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
