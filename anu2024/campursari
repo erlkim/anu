@@ -23,16 +23,19 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 #https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/066/569066-LOGO-m.png" group-title="Indonesia Channels" group-logo="https://www.visionplus.id/images/repository/066/569066-LOGO-m.png" ch-number="5" tvg-id="Indosiar.id" tvg-name="Indosiar.id", Indosiar HD
-#https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=205
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png" group-title="Indonesia Channels",Indosiar HD
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
+#https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
+https://beetv.my.id/stream/vd.m3u8?ch=indosiar
 
-#EXTINF:-1 tvg-name="SCTV.id" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-m.png" group-title="Indonesia Channels",SCTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
+#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/sctv.png" group-title="Indonesia Channels" ,SCTV HD
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
+https://beetv.my.id/stream/vd.m3u8?ch=sctv
 
 #EXTINF:-1 tvg-name="MNCTV.id" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="Indonesia Channels",MNCTV HD
 #EXTVLCOPT:http-user-agent=android-R+
