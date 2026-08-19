@@ -1,6 +1,6 @@
-#EXTM3U x-tvg-url="http://epg.nng.cloudns.us" url-tvg="http://epg.nng.cloudns.us" refresh="3600"
+#EXTM3U
 
-# (●) Last Update: 2025-03-30 23:29:00 GMT+7 "
+(●) Last Update: 2025-03-30 23:29:00 GMT+7
 
 #EXTINF:-1 tvg-name="RCTI.id" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="Indonesia Channels",RCTI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
